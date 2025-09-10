@@ -229,17 +229,11 @@ Complete algorithms and data structures portfolio
 ## 📫 Connect with Me | Contattami
 
 <div align="center">
-  <a href="https://linkedin.com/in/gianfrizio" target="_blank">
+  <a href="https://linkedin.com/in/vittorio-ciampi" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/gianfrizio" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:vittoriociampi83@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://gianfrizio.dev" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
@@ -261,30 +255,3 @@ Complete algorithms and data structures portfolio
   <i>💼 Aperto a opportunità di lavoro interessanti e collaborazioni | Open to interesting job opportunities and collaborations</i>
 </div>
 
----
-
-### 🎨 Vuoi personalizzare questo README? | Want to customize this README?
-
-<div id="personalizzazione-italiano">
-
-Questo README è stato creato con amore e attenzione ai dettagli. Sentiti libero di:
-- ⭐ Mettere una stella a questo repository se ti piace
-- 🍴 Forkarlo per creare la tua versione
-- 🐛 Aprire una issue se trovi dei bug
-- 🚀 Inviare una PR per migliorarlo
-
-</div>
-
-<div id="customization-english">
-
-This README was created with love and attention to detail. Feel free to:
-- ⭐ Star this repository if you like it
-- 🍴 Fork it to create your own version
-- 🐛 Open an issue if you find any bugs
-- 🚀 Submit a PR to improve it
-
-</div>
-
-<div align="center">
-  <strong>Happy Coding! 🚀 | Buon Coding! 🚀</strong>
-</div>
