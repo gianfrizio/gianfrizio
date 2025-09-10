@@ -42,7 +42,7 @@
 
 ## 🚀 Chi Sono
 
-Sono un **Full Stack,Mobile & Game Developer** specializzato in architetture enterprise e sviluppo AI-powered. Creo soluzioni innovative che spaziano dal game development alle applicazioni mobile cross-platform, con particolare expertise in microservizi e integrazione AI.
+Sono un **Full Stack, Mobile & Game Developer** specializzato in architetture enterprise e sviluppo AI-powered. Creo soluzioni innovative che spaziano dal game development alle applicazioni mobile cross-platform, con particolare expertise in microservizi e integrazione AI.
 
 - 🔭 Attualmente lavoro su **Web Cinema AI Pro** e **Dream Visualizer**
 - 🌱 Specializzato in **Java Spring Boot**, **Python AI/ML**, **Flutter** e **Game Development C/C++**
@@ -56,7 +56,7 @@ Sono un **Full Stack,Mobile & Game Developer** specializzato in architetture ent
 
 ## 🚀 About Me
 
-I'm a **Full Stack,Mobile & Game Developer** specialized in enterprise architectures and AI-powered development. I create innovative solutions spanning from game development to cross-platform mobile apps, with particular expertise in microservices and AI integration.
+I'm a **Full Stack, Mobile & Game Developer** specialized in enterprise architectures and AI-powered development. I create innovative solutions spanning from game development to cross-platform mobile apps, with particular expertise in microservices and AI integration.
 
 - 🔭 I'm currently working on **Web Cinema AI Pro** and **Dream Visualizer**
 - 🌱 Specialized in **Java Spring Boot**, **Python AI/ML**, **Flutter** and **Game Development C/C++**
