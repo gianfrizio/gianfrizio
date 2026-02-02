@@ -95,34 +95,6 @@ I'm a **Junior Full Stack, Mobile & Game Developer** currently working as a **Re
 
 ---
 
-## 📊 GitHub Stats | Statistiche GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gianfrizio&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gianfrizio&theme=react&hide_border=true&background=0D1117&stroke=2196F3&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" alt="GitHub Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianfrizio&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2196F3" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 GitHub Trophies | Trofei GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gianfrizio&theme=onestar&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 Activity Graph | Grafico delle Attività
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gianfrizio&bg_color=0D1117&color=2196F3&line=2196F3&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
 ## 🎯 Projects & Experience | Progetti ed Esperienza
 
 <div id="progetti-italiano">
