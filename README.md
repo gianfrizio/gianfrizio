@@ -1,39 +1,17 @@
-# 👋 Ciao, sono Vittorio Ciampi! | Hi, I'm Vittorio Ciampi!
+# 👋 Ciao, sono Vittorio! | Hi, I'm Vittorio!
 
 <div align="center">
-  
-  <!-- La### Database | Database
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=database&logoColor=white)
-![JPA/Hibernate](https://img.shields.io/badge/-JPA/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/-Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
-### DevOps e Strumenti | DevOps & Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-
-### AI-Assisted Development | Sviluppo Assistito da AI
-![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
-
-### Architecture Patterns | Pattern Architetturali
-![MVC](https://img.shields.io/badge/-MVC-FF6B6B?style=flat-square&logo=architecture&logoColor=white)
-![Repository Pattern](https://img.shields.io/badge/-Repository_Pattern-4ECDC4?style=flat-square&logo=architecture&logoColor=white)
-![Service Layer](https://img.shields.io/badge/-Service_Layer-45B7D1?style=flat-square&logo=architecture&logoColor=white)
-![Microservices](https://img.shields.io/badge/-Microservices-FF9500?style=flat-square&logo=microservices&logoColor=white)ction -->
   <a href="#italiano">
     <img src="https://img.shields.io/badge/🇮🇹_Italiano-Click_Here-green?style=for-the-badge" alt="Italiano" />
   </a>
   <a href="#english">
     <img src="https://img.shields.io/badge/🇬🇧_English-Click_Here-blue?style=for-the-badge" alt="English" />
   </a>
-  
+
   <br><br>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Sviluppatore+Full+Stack;AI+Integration+Specialist;Specialista+Integrazione+AI;Game+Developer;Sviluppatore+Giochi;Enterprise+Architect;Architetto+Enterprise;Spring+Boot+Expert;Esperto+Spring+Boot" alt="Typing SVG" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Sviluppatore+Full+Stack;Mobile+Developer;Sviluppatore+Mobile;Game+Developer;Sviluppatore+Giochi;React+Native+Developer;Sviluppatore+React+Native" alt="Typing SVG" />
 </div>
 
 ---
@@ -42,13 +20,13 @@
 
 ## 🚀 Chi Sono
 
-Sono un **Full Stack, Mobile & Game Developer** specializzato in architetture enterprise e sviluppo AI-powered. Creo soluzioni innovative che spaziano dal game development alle applicazioni mobile cross-platform, con particolare expertise in microservizi e integrazione AI.
+Sono un **Junior Full Stack, Mobile & Game Developer** attualmente impiegato come **React Native/Expo Developer** presso AIVI. Durante il mio percorso ho acquisito competenze in sviluppo full-stack, mobile cross-platform e game development. Sono una persona volta all'apprendimento continuo e appassionata del settore tecnologico.
 
-- 🔭 Attualmente lavoro su **Web Cinema AI Pro** e **Dream Visualizer**
-- 🌱 Specializzato in **Java Spring Boot**, **Python AI/ML**, **Flutter** e **Game Development C/C++**
-- 👯 Disponibile per collaborazioni su progetti **AI Integration** e **Enterprise Applications**
-- 💬 Chiedimi di **Spring Boot, Python ML, Flutter, SDL2, Microservizi**
-- ⚡ Fun fact: Sviluppo assistito da AI (GitHub Copilot, ChatGPT) ☕
+- 🔭 Attualmente lavoro presso **AIVI** come React Native/Expo Developer
+- 🌱 Specializzato in **React/Next.js**, **Node.js/Express**, **React Native/Expo**, **Flutter** e **Game Development C/C++**
+- 👯 Disponibile per collaborazioni su progetti **Mobile** e **Full Stack**
+- 💬 Chiedimi di **React, React Native, Node.js, Flutter, SDL2**
+- ⚡ Fun fact: Sviluppo accelerato con strumenti AI ☕
 
 </div>
 
@@ -56,13 +34,13 @@ Sono un **Full Stack, Mobile & Game Developer** specializzato in architetture en
 
 ## 🚀 About Me
 
-I'm a **Full Stack, Mobile & Game Developer** specialized in enterprise architectures and AI-powered development. I create innovative solutions spanning from game development to cross-platform mobile apps, with particular expertise in microservices and AI integration.
+I'm a **Junior Full Stack, Mobile & Game Developer** currently working as a **React Native/Expo Developer** at AIVI. Throughout my journey, I've gained skills in full-stack development, cross-platform mobile apps, and game development. I'm passionate about continuous learning and the tech industry.
 
-- 🔭 I'm currently working on **Web Cinema AI Pro** and **Dream Visualizer**
-- 🌱 Specialized in **Java Spring Boot**, **Python AI/ML**, **Flutter** and **Game Development C/C++**
-- 👯 I'm available for collaborations on **AI Integration** and **Enterprise Applications**
-- 💬 Ask me about **Spring Boot, Python ML, Flutter, SDL2, Microservices**
-- ⚡ Fun fact: AI-assisted development (GitHub Copilot, ChatGPT) ☕
+- 🔭 I'm currently working at **AIVI** as React Native/Expo Developer
+- 🌱 Specialized in **React/Next.js**, **Node.js/Express**, **React Native/Expo**, **Flutter** and **Game Development C/C++**
+- 👯 I'm available for collaborations on **Mobile** and **Full Stack** projects
+- 💬 Ask me about **React, React Native, Node.js, Flutter, SDL2**
+- ⚡ Fun fact: AI-accelerated development ☕
 
 </div>
 
@@ -71,54 +49,49 @@ I'm a **Full Stack, Mobile & Game Developer** specialized in enterprise architec
 ## 🛠️ Tech Stack | Stack Tecnologico
 
 ### Languages | Linguaggi
-![Java](https://img.shields.io/badge/-Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/-Python_3.11+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript_v5-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Backend & Enterprise
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot_3.2-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/-Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js_v20+-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST_APIs-FF6B6B?style=flat-square&logo=api&logoColor=white)
-![Microservices](https://img.shields.io/badge/-Microservices-FF9500?style=flat-square&logo=microservices&logoColor=white)
 
-### Mobile & Cross-Platform
+### Mobile Development
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-
-### AI & Machine Learning
-![OpenAI](https://img.shields.io/badge/-OpenAI_GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
-![DALL-E](https://img.shields.io/badge/-DALL--E-FF6B6B?style=flat-square&logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF9500?style=flat-square&logo=tensorflow&logoColor=white)
-![AI Integration](https://img.shields.io/badge/-AI_Integration-00D4AA?style=flat-square&logo=ai&logoColor=white)
 
 ### Game Development
 ![SDL2](https://img.shields.io/badge/-SDL2-1E90FF?style=flat-square&logo=sdl&logoColor=white)
-![Game Engine](https://img.shields.io/badge/-Game_Engine-8A2BE2?style=flat-square&logo=unity&logoColor=white)
+![C/C++](https://img.shields.io/badge/-C/C++_Game_Dev-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![2D Graphics](https://img.shields.io/badge/-2D_Graphics-FF69B4?style=flat-square&logo=graphics&logoColor=white)
 
 ### Database | Database
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=database&logoColor=white)
-![JPA/Hibernate](https://img.shields.io/badge/-JPA/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/-Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
 
 ### DevOps & Tools | DevOps e Strumenti
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![EAS](https://img.shields.io/badge/-EAS_Build-000020?style=flat-square&logo=expo&logoColor=white)
 
 ### AI-Assisted Development | Sviluppo Assistito da AI
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-181717?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
 
@@ -150,77 +123,87 @@ I'm a **Full Stack, Mobile & Game Developer** specialized in enterprise architec
 
 ---
 
-## 🎯 Projects Showcase | Progetti in Evidenza
+## 🎯 Projects & Experience | Progetti ed Esperienza
 
 <div id="progetti-italiano">
 
-### 🌟 Progetti Principali
+### 💼 Esperienza Professionale
 
-#### 🎬 **WEB CINEMA AI PRO** | *Full-Stack Enterprise Application* | 2025
-Sistema di raccomandazione cinematografica con architettura microservizi
-- **Backend**: Java Spring Boot 3.2, Spring Data JPA, REST APIs
-- **AI Engine**: Python Flask, machine learning, algoritmi di raccomandazione
-- **Frontend**: JavaScript ES6+, responsive design, filtri real-time
-- **Architettura**: 3-tier microservices (porte 3001/8080/5001)
-- **Features**: Sistema rating, ricerca autocomplete, persistenza dati utente
+#### 📱 **React Native/Expo Developer** | *AIVI* | Novembre 2025 - Presente
+Sviluppo di applicazioni mobile cross-platform professionali
+- **Mobile Development**: Applicazioni iOS/Android con React Native ed Expo
+- **UI/UX Implementation**: Design responsive e gestione dello stato applicativo
+- **API Integration**: Integrazione API REST e gestione dei dati
+- **Build & Deploy**: Gestione build e deployment tramite Expo (EAS)
 
-#### 📱 **DREAM VISUALIZER** | *App Mobile Flutter AI* | 2025
-Applicazione mobile innovativa potenziata da intelligenza artificiale
-- **AI Integration**: OpenAI GPT-4 per NLP, DALL-E per arte procedurale
-- **Mobile Features**: autenticazione biometrica, speech-to-text, elaborazione real-time
-- **Sicurezza**: gestione API key, storage crittografato
-- **Deployment**: cross-platform con interfaccia multilingue
-- **Backend**: Firebase per servizi cloud
+### 🌟 Portfolio Completo
 
-#### 🎮 **TETRIS GAME ENGINE** | *Game Development C/C++* | 2025
-Implementazione completa game engine con architetture multiple
-- **Due versioni**: C procedurale e C++ object-oriented
-- **SDL2 Integration**: rendering real-time, sistema audio, gestione input
-- **Game Mechanics**: rotazioni tetromino, algoritmi eliminazione righe
-- **Performance**: gestione memoria ottimizzata e performance tuning
+Per una visione dettagliata dei miei progetti e competenze, visita il mio portfolio completo:
 
-#### 🔧 **ALGORITMI AVANZATI C++** | *Systems Programming* | 2025
-Portfolio completo algoritmi e strutture dati
-- **C++ Avanzato**: STL, template metaprogramming
-- **Ottimizzazione**: algoritmi ordinamento, ricerca, grafi
-- **Memory Management**: allocatori custom, pattern RAII
-- **Design Patterns**: factory, observer, strategy
+**[portfolio-vittorio-ciampi.vercel.app](https://portfolio-vittorio-ciampi.vercel.app)**
+
+### 🎓 Competenze Sviluppate
+
+#### Frontend Development
+- Sviluppo SPA con **React** e componenti riutilizzabili
+- **Next.js** per SSR/SSG e ottimizzazione SEO
+- Design responsive con **HTML5/CSS3/Tailwind**
+
+#### Backend Development
+- API RESTful con **Node.js** e **Express.js**
+- Database NoSQL con **MongoDB** e **Mongoose**
+- Architetture middleware e gestione errori
+
+#### Mobile Development
+- App cross-platform con **React Native/Expo**
+- Sviluppo mobile con **Flutter/Dart**
+- State management e integrazione servizi cloud
+
+#### Game Development
+- Game engine con **C/C++** e **SDL2**
+- Rendering real-time e gestione input
+- Ottimizzazione performance e memory management
 
 </div>
 
 <div id="projects-english">
 
-### 🌟 Main Projects
+### 💼 Professional Experience
 
-#### 🎬 **WEB CINEMA AI PRO** | *Full-Stack Enterprise Application* | 2025
-Cinema recommendation system with microservices architecture
-- **Backend**: Java Spring Boot 3.2, Spring Data JPA, REST APIs
-- **AI Engine**: Python Flask, machine learning, recommendation algorithms
-- **Frontend**: JavaScript ES6+, responsive design, real-time filtering
-- **Architecture**: 3-tier microservices (ports 3001/8080/5001)
-- **Features**: Rating system, autocomplete search, user data persistence
+#### 📱 **React Native/Expo Developer** | *AIVI* | November 2025 - Present
+Professional cross-platform mobile application development
+- **Mobile Development**: iOS/Android applications with React Native and Expo
+- **UI/UX Implementation**: Responsive design and state management
+- **API Integration**: REST API integration and data handling
+- **Build & Deploy**: Build and deployment management through Expo (EAS)
 
-#### 📱 **DREAM VISUALIZER** | *Flutter AI Mobile App* | 2025
-Innovative mobile application powered by artificial intelligence
-- **AI Integration**: OpenAI GPT-4 for NLP, DALL-E for procedural art
-- **Mobile Features**: biometric authentication, speech-to-text, real-time processing
-- **Security**: API key management, encrypted storage
-- **Deployment**: cross-platform with multilingual interface
-- **Backend**: Firebase for cloud services
+### 🌟 Complete Portfolio
 
-#### 🎮 **TETRIS GAME ENGINE** | *Game Development C/C++* | 2025
-Complete game engine implementation with multiple architectures
-- **Two versions**: Procedural C and Object-oriented C++
-- **SDL2 Integration**: real-time rendering, audio system, input handling
-- **Game Mechanics**: tetromino rotations, line elimination algorithms
-- **Performance**: optimized memory management and performance tuning
+For a detailed view of my projects and skills, visit my complete portfolio:
 
-#### 🔧 **ADVANCED ALGORITHMS C++** | *Systems Programming* | 2025
-Complete algorithms and data structures portfolio
-- **Advanced C++**: STL, template metaprogramming
-- **Optimization**: sorting algorithms, search, graph algorithms
-- **Memory Management**: custom allocators, RAII patterns
-- **Design Patterns**: factory, observer, strategy
+**[portfolio-vittorio-ciampi.vercel.app](https://portfolio-vittorio-ciampi.vercel.app)**
+
+### 🎓 Developed Skills
+
+#### Frontend Development
+- SPA development with **React** and reusable components
+- **Next.js** for SSR/SSG and SEO optimization
+- Responsive design with **HTML5/CSS3/Tailwind**
+
+#### Backend Development
+- RESTful APIs with **Node.js** and **Express.js**
+- NoSQL databases with **MongoDB** and **Mongoose**
+- Middleware architectures and error handling
+
+#### Mobile Development
+- Cross-platform apps with **React Native/Expo**
+- Mobile development with **Flutter/Dart**
+- State management and cloud services integration
+
+#### Game Development
+- Game engines with **C/C++** and **SDL2**
+- Real-time rendering and input handling
+- Performance optimization and memory management
 
 </div>
 
@@ -229,8 +212,14 @@ Complete algorithms and data structures portfolio
 ## 📫 Connect with Me | Contattami
 
 <div align="center">
+  <a href="https://portfolio-vittorio-ciampi.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://linkedin.com/in/vittorio-ciampi" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/gianfrizio" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:vittoriociampi83@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
