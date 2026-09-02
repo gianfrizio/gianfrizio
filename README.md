@@ -11,7 +11,7 @@
 
   <br><br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Sviluppatore+Full+Stack;Mobile+Developer;Sviluppatore+Mobile;Game+Developer;Sviluppatore+Giochi;React+Native+Developer;Sviluppatore+React+Native" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Sviluppatore+Full+Stack;Mobile+Developer;Sviluppatore+Mobile;Game+Developer;Sviluppatore+Giochi;React+Native+Developer;Sviluppatore+React+Native;Flutter+Developer;Sviluppatore+Flutter" alt="Typing SVG" />
 </div>
 
 ---
@@ -20,9 +20,10 @@
 
 ## 🚀 Chi Sono
 
-Sono un **Junior Full Stack, Mobile & Game Developer** attualmente impiegato come **React Native/Expo Developer** presso AIVI. Durante il mio percorso ho acquisito competenze in sviluppo full-stack, mobile cross-platform e game development. Sono una persona volta all'apprendimento continuo e appassionata del settore tecnologico.
+Sono un **Junior Full Stack, Mobile & Game Developer** attualmente impiegato come **React Native/Expo Developer** presso AIVI, con esperienza professionale anche come **Flutter Developer** presso Ordinoo. Durante il mio percorso ho acquisito competenze in sviluppo full-stack, mobile cross-platform e game development. Sono una persona volta all'apprendimento continuo e appassionata del settore tecnologico.
 
 - 🔭 Attualmente lavoro presso **AIVI** come React Native/Expo Developer
+- 📱 Esperienza professionale come **Flutter Developer** presso **Ordinoo** (Giugno 2026 - Agosto 2026)
 - 🌱 Specializzato in **React/Next.js**, **Node.js/Express**, **React Native/Expo**, **Flutter** e **Game Development C/C++**
 - 👯 Disponibile per collaborazioni su progetti **Mobile** e **Full Stack**
 - 💬 Chiedimi di **React, React Native, Node.js, Flutter, SDL2**
@@ -34,9 +35,10 @@ Sono un **Junior Full Stack, Mobile & Game Developer** attualmente impiegato com
 
 ## 🚀 About Me
 
-I'm a **Junior Full Stack, Mobile & Game Developer** currently working as a **React Native/Expo Developer** at AIVI. Throughout my journey, I've gained skills in full-stack development, cross-platform mobile apps, and game development. I'm passionate about continuous learning and the tech industry.
+I'm a **Junior Full Stack, Mobile & Game Developer** currently working as a **React Native/Expo Developer** at AIVI, with professional experience as a **Flutter Developer** at Ordinoo as well. Throughout my journey, I've gained skills in full-stack development, cross-platform mobile apps, and game development. I'm passionate about continuous learning and the tech industry.
 
 - 🔭 I'm currently working at **AIVI** as React Native/Expo Developer
+- 📱 Professional experience as **Flutter Developer** at **Ordinoo** (June 2026 - August 2026)
 - 🌱 Specialized in **React/Next.js**, **Node.js/Express**, **React Native/Expo**, **Flutter** and **Game Development C/C++**
 - 👯 I'm available for collaborations on **Mobile** and **Full Stack** projects
 - 💬 Ask me about **React, React Native, Node.js, Flutter, SDL2**
@@ -108,6 +110,12 @@ Sviluppo di applicazioni mobile cross-platform professionali
 - **API Integration**: Integrazione API REST e gestione dei dati
 - **Build & Deploy**: Gestione build e deployment tramite Expo (EAS)
 
+#### 🦋 **Flutter Developer** | *Ordinoo* | Giugno 2026 - Agosto 2026
+Sviluppo di applicazioni mobile cross-platform con Flutter
+- **Mobile Development**: Applicazioni iOS/Android con Flutter e Dart
+- **UI/UX Implementation**: Implementazione interfacce e gestione dello stato
+- **API Integration**: Integrazione API REST e gestione dei dati
+
 ### 🌟 Portfolio Completo
 
 Per una visione dettagliata dei miei progetti e competenze, visita il mio portfolio completo:
@@ -148,6 +156,12 @@ Professional cross-platform mobile application development
 - **UI/UX Implementation**: Responsive design and state management
 - **API Integration**: REST API integration and data handling
 - **Build & Deploy**: Build and deployment management through Expo (EAS)
+
+#### 🦋 **Flutter Developer** | *Ordinoo* | June 2026 - August 2026
+Cross-platform mobile application development with Flutter
+- **Mobile Development**: iOS/Android applications with Flutter and Dart
+- **UI/UX Implementation**: UI implementation and state management
+- **API Integration**: REST API integration and data handling
 
 ### 🌟 Complete Portfolio
 
